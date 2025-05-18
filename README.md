@@ -4,13 +4,13 @@ A comprehensive movie recommendation platform that combines content-based filter
 
 
 ## Features
-Recommendation
+- Recommendation
 ![Movie Recommendation System](recommendation.jpeg)
-Wishlist
-![Movie Recommendation System](wishlist.jpeg)
-Login
+- Wishlist
+![Movie Recommendation System](wishlist.jpg)
+- Login
 ![Movie Recommendation System](login.jpeg)
-Sentient Analysis
+- Sentient Analysis
 ![Movie Recommendation System](sentiment.jpeg)
 
 ### Movie Recommendation Engine
