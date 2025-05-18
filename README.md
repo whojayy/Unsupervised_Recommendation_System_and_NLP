@@ -2,9 +2,16 @@
 
 A comprehensive movie recommendation platform that combines content-based filtering with sentiment analysis to enhance the user experience. The system provides personalized movie recommendations based on movie content and allows users to analyze the sentiment of movie reviews.
 
-![Movie Recommendation System](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PHOTO-2025-05-18-11-53-40.jpg-6XTFTytFT0fysKCN9Shidsp9pVgmUo.jpeg)
 
 ## Features
+Recommendation
+![Movie Recommendation System](recommendation.jpeg)
+Wishlist
+![Movie Recommendation System](wishlist.jpeg)
+Login
+![Movie Recommendation System](login.jpeg)
+Sentient Analysis
+![Movie Recommendation System](sentiment.jpeg)
 
 ### Movie Recommendation Engine
 - **Content-Based Filtering**: Utilizes unsupervised learning techniques to recommend movies based on content similarity
@@ -33,6 +40,9 @@ A comprehensive movie recommendation platform that combines content-based filter
 - **TMDB API**: External API for movie data and posters
 - **Kaggle API**: For dataset acquisition
 
+## Features 
+
+
 
 \`\`\`
 
@@ -40,7 +50,7 @@ A comprehensive movie recommendation platform that combines content-based filter
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/whojayy/Unsupervised_Recommendation_System_and_NLP
    cd movie-recommendation-system
    \`\`\`
 
