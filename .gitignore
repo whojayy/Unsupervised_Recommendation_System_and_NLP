@@ -1,0 +1,71 @@
+# Large data files
+*.pkl
+*.sav
+similarity.pkl
+vectorizer.sav
+trained_model.sav
+*.npz
+*.npy
+
+# Datasets
+*.csv
+*.zip
+tmdb_5000_*.csv
+tmdb-movie-metadata.zip
+
+# Database files
+*.db
+*.sqlite
+movie_recommendation.db
+movie_recommendation_backup.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+py310_venv/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Kaggle credentials
+kaggle.json
+kaggle_API/kaggle.json
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log

@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==1.24.3
+Requests==2.32.3
+SQLAlchemy==2.0.38
+streamlit==1.41.1
+kaggle==1.6.17
+kagglehub==0.3.6
+nltk==3.9.1
+numpy==1.24.3
+pickleshare==0.7.5
+scikit-learn==1.6.1
